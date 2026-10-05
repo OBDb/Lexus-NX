@@ -1,0 +1,8 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    NX_ENG_ODO: 4923
+  response: 708076201030200133B
+- expected_values:
+    NX_ENG_ODO: 5044
+  response: 70807620103020013B4

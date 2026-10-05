@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.221040
+test_cases:
+- expected_values:
+    NX_TRANSAXLE_OIL_T: 30
+  response: 7DA06621040C28046
+- expected_values:
+    NX_TRANSAXLE_OIL_T: 30
+  response: 7DA06621040C2F046
+- expected_values:
+    NX_TRANSAXLE_OIL_T: 24
+  response: 7DA06621040C90040
+- expected_values:
+    NX_TRANSAXLE_OIL_T: -2
+  response: 7DA06621040E15026

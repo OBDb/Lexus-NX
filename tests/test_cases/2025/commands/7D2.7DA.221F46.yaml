@@ -1,0 +1,29 @@
+command_id: 7D2.7DA.221F46
+test_cases:
+- expected_values:
+    NX_AAT: 0
+  response: 7DA04621F4628
+- expected_values:
+    NX_AAT: 1
+  response: 7DA04621F4629
+- expected_values:
+    NX_AAT: 2
+  response: 7DA04621F462A
+- expected_values:
+    NX_AAT: 3
+  response: 7DA04621F462B
+- expected_values:
+    NX_AAT: 4
+  response: 7DA04621F462C
+- expected_values:
+    NX_AAT: 7
+  response: 7DA04621F462F
+- expected_values:
+    NX_AAT: 8
+  response: 7DA04621F4630
+- expected_values:
+    NX_AAT: 15
+  response: 7DA04621F4637
+- expected_values:
+    NX_AAT: 16
+  response: 7DA04621F4638

@@ -1,0 +1,14 @@
+command_id: 700.708.221043
+test_cases:
+- expected_values:
+    NX_EWP_RPM: 150
+    NX_EWP_TARGET_VSS: 0
+  response: '708056210430006'
+- expected_values:
+    NX_EWP_RPM: 3750
+    NX_EWP_TARGET_VSS: 6000
+  response: 70805621043F096
+- expected_values:
+    NX_EWP_RPM: 5775
+    NX_EWP_TARGET_VSS: 6000
+  response: 70805621043F0E7

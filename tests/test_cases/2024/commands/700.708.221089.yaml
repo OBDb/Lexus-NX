@@ -1,0 +1,14 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 45.55205
+  response: 708056210891D29
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 48.42003
+  response: 708056210891EFF
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 48.42613
+  response: 708056210891F00
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 53.11863
+  response: '708056210892201'

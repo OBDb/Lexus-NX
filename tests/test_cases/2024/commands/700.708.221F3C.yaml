@@ -1,0 +1,14 @@
+command_id: 700.708.221F3C
+test_cases:
+- expected_values:
+    NX_CAT_T_11: 18.9
+  response: 70805621F3C024D
+- expected_values:
+    NX_CAT_T_11: 87.9
+  response: 70805621F3C04FF
+- expected_values:
+    NX_CAT_T_11: 318.4
+  response: 70805621F3C0E00
+- expected_values:
+    NX_CAT_T_11: 761.4
+  response: 70805621F3C1F4E

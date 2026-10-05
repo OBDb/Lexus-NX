@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.221002
+test_cases:
+- expected_values:
+    NX_AUX_BAT_V: 12.5416
+  response: 7DA056210022828
+- expected_values:
+    NX_AUX_BAT_V: 12.80512
+  response: 7DA056210022900
+- expected_values:
+    NX_AUX_BAT_V: 13.42488
+  response: 7DA056210022AFC
+- expected_values:
+    NX_AUX_BAT_V: 14.0544
+  response: 7DA056210022D00

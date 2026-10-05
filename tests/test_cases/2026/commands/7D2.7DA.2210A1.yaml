@@ -1,0 +1,104 @@
+command_id: 7D2.7DA.2210A1
+test_cases:
+- expected_values:
+    NX_RPM: -400
+    NX_TQ: -21.125
+  response: |-
+    7DA100C6210A17E707F
+    7DA215503007F570400
+- expected_values:
+    NX_RPM: -344
+    NX_TQ: -26
+  response: |-
+    7DA100C6210A17EA87F
+    7DA212D03007F300400
+- expected_values:
+    NX_RPM: -325
+    NX_TQ: -28.125
+  response: |-
+    7DA100C6210A17EBB7F
+    7DA212003007F1F0400
+- expected_values:
+    NX_RPM: -311
+    NX_TQ: -28.125
+  response: |-
+    7DA100C6210A17EC97F
+    7DA211F03007F1F0400
+- expected_values:
+    NX_RPM: -308
+    NX_TQ: -30.625
+  response: |-
+    7DA100C6210A17ECC7F
+    7DA210E03007F0B0400
+- expected_values:
+    NX_RPM: -280
+    NX_TQ: -31.375
+  response: |-
+    7DA100C6210A17EE87E
+    7DA21FF03007F050400
+- expected_values:
+    NX_RPM: -63
+    NX_TQ: 0.125
+  response: |-
+    7DA100C6210A17FC180
+    7DA2100030080010400
+- expected_values:
+    NX_RPM: -11
+    NX_TQ: 0
+  response: |-
+    7DA100C6210A17FF580
+    7DA2100030080000000
+- expected_values:
+    NX_RPM: -5
+    NX_TQ: -0.125
+  response: |-
+    7DA100C6210A17FFB80
+    7DA210003007FFF0400
+- expected_values:
+    NX_RPM: -1
+    NX_TQ: -46.125
+  response: |-
+    7DA100C6210A17FFF7E
+    7DA219703007E8F0400
+- expected_values:
+    NX_RPM: 0
+    NX_TQ: -47.5
+  response: |-
+    7DA100C6210A180007E
+    7DA219803007E840400
+- expected_values:
+    NX_RPM: 0
+    NX_TQ: 0
+  response: |-
+    7DA100C6210A1800080
+    7DA2100000080000000
+- expected_values:
+    NX_RPM: 844
+    NX_TQ: -91.75
+  response: |-
+    7DA100C6210A1834C7C
+    7DA21FF03007D220400
+- expected_values:
+    NX_RPM: 1247
+    NX_TQ: 191.5
+  response: |-
+    7DA100C6210A184DF86
+    7DA2104020085FC0400
+- expected_values:
+    NX_RPM: 1801
+    NX_TQ: -117.125
+  response: |-
+    7DA100C6210A187097C
+    7DA214D04007C570400
+- expected_values:
+    NX_RPM: 4988
+    NX_TQ: 141.375
+  response: |-
+    7DA100C6210A1937C84
+    7DA21390402846B0400
+- expected_values:
+    NX_RPM: 10241
+    NX_TQ: -13.125
+  response: |-
+    7DA100C6210A1A8017F
+    7DA217D04027F970400

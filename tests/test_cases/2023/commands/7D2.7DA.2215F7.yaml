@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.2215F7
+test_cases:
+- expected_values:
+    NX_12V_C: 3.43332
+  response: 7DA056215F78384

@@ -1,0 +1,14 @@
+command_id: 700.708.22108A
+test_cases:
+- expected_values:
+    NX_VVT_IE_DUTY_RATIO_BANK_1: -21.66053
+  response: 7080562108A722A
+- expected_values:
+    NX_VVT_IE_DUTY_RATIO_BANK_1: -0.04695
+  response: 7080562108A8000
+- expected_values:
+    NX_VVT_IE_DUTY_RATIO_BANK_1: 21.81071
+  response: 7080562108A8DFE
+- expected_values:
+    NX_VVT_IE_DUTY_RATIO_BANK_1: 31.48862
+  response: 7080562108A9430

@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221FA6|fc=1
+test_cases:
+- expected_values:
+    NX_ODO_1FA6: 79976.7
+  response: 7DA07621FA6000C3417
+- expected_values:
+    NX_ODO_1FA6: 80076.7
+  response: 7DA07621FA6000C37FF
+- expected_values:
+    NX_ODO_1FA6: 80281.6
+  response: 7DA07621FA6000C4000

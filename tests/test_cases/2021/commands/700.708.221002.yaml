@@ -1,0 +1,19 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    NX_12V_V_700: 11.54294
+  response: 7080562100224F0
+- expected_values:
+    NX_12V_V_700: 12.49509
+  response: 7080562100227FC
+- expected_values:
+    NX_12V_V_700: 12.49997
+  response: '708056210022800'
+- expected_values:
+    NX_12V_V_700: 14.37496
+  response: '708056210022E00'
+- expected_values:
+    NX_12V_V_700: 14.16989
+  response: |-
+    7E803410F45
+    708056210022D58

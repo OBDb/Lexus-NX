@@ -1,0 +1,209 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    NX_HVBAT_C: 80.1
+    NX_HVBAT_V: 326
+  response: |-
+    7DA1009621F9A0E0051
+    7DA2180032100000000
+- expected_values:
+    NX_HVBAT_C: 61.2
+    NX_HVBAT_V: 327
+  response: |-
+    7DA1009621F9A0E0051
+    7DA21C0026400000000
+- expected_values:
+    NX_HVBAT_C: 51.4
+    NX_HVBAT_V: 328
+  response: |-
+    7DA1009621F9A0E0052
+    7DA2100020200000000
+- expected_values:
+    NX_HVBAT_C: 44.7
+    NX_HVBAT_V: 329
+  response: |-
+    7DA1009621F9A0E0052
+    7DA214001BF00000000
+- expected_values:
+    NX_HVBAT_C: 4.8
+    NX_HVBAT_V: 330
+  response: |-
+    7DA1009621F9A0E0052
+    7DA2180003000000000
+- expected_values:
+    NX_HVBAT_C: 0.4
+    NX_HVBAT_V: 331
+  response: |-
+    7DA1009621F9A0E0052
+    7DA21C0000400000000
+- expected_values:
+    NX_HVBAT_C: -10.8
+    NX_HVBAT_V: 331
+  response: |-
+    7DA1009621F9A0E0052
+    7DA21C0FF9400000000
+- expected_values:
+    NX_HVBAT_C: -1
+    NX_HVBAT_V: 332
+  response: |-
+    7DA1009621F9A0E0053
+    7DA2100FFF600000000
+- expected_values:
+    NX_HVBAT_C: -84.5
+    NX_HVBAT_V: 388
+  response: |-
+    7DA1009621F9A0E0261
+    7DA2100FCB300000000
+- expected_values:
+    NX_HVBAT_C: -0.3
+    NX_HVBAT_V: 332
+  response: |-
+    7DA1009621F9A0E0653
+    7DA2100FFFD00000000
+- expected_values:
+    NX_HVBAT_C: 4.8
+    NX_HVBAT_V: 332
+  response: |-
+    7E803410400
+    7DA1009621F9A0E0053
+    7DA2100003000000000
+- expected_values:
+    NX_HVBAT_C: 32.5
+    NX_HVBAT_V: 341
+  response: |-
+    7E803410F44
+    7DA1009621F9A0E0255
+    7DA2140014500000000
+- expected_values:
+    NX_HVBAT_C: -20.9
+    NX_HVBAT_V: 338
+  response: |-
+    7E803410F49
+    7DA1009621F9A0E0054
+    7DA2180FF2F00000000
+- expected_values:
+    NX_HVBAT_C: -6.9
+    NX_HVBAT_V: 335
+  response: |-
+    7E803410F4A
+    7DA1009621F9A0E0053
+    7DA21C0FFBB00000000
+- expected_values:
+    NX_HVBAT_C: 2.7
+    NX_HVBAT_V: 332
+  response: |-
+    7E803411132
+    7DA1009621F9A0E0053
+    7DA2100001B00000000
+- expected_values:
+    NX_HVBAT_C: 47.9
+    NX_HVBAT_V: 330
+  response: |-
+    7E804410C0000
+    7DA1009621F9A0E0052
+    7DA218001DF00000000
+- expected_values:
+    NX_HVBAT_C: 6.8
+    NX_HVBAT_V: 330
+  response: |-
+    7E804411F1513
+    7DA1009621F9A0E0052
+    7DA2180004400000000
+- expected_values:
+    NX_HVBAT_C: 8.4
+    NX_HVBAT_V: 331
+  response: |-
+    7EA03410F4A
+    7DA1009621F9A0E0052
+    7DA21C0005400000000
+- expected_values:
+    NX_HVBAT_C: 6.4
+    NX_HVBAT_V: 336
+  response: |-
+    7EA04410C0000
+    7DA1009621F9A0E0254
+    7DA2100004000000000
+- expected_values:
+    NX_HVBAT_C: 103.7
+    NX_HVBAT_V: 339
+  response: |-
+    7EA04411F0666
+    7DA1009621F9A0E0254
+    7DA21C0040D00000000
+- expected_values:
+    NX_HVBAT_C: -23.2
+    NX_HVBAT_V: 354
+  response: |-
+    7EB04411F0337
+    7DA1009621F9A0E0058
+    7DA2180FF1800000000
+- expected_values:
+    NX_HVBAT_C: -29.9
+    NX_HVBAT_V: 364
+  response: |-
+    7EB0441312C24
+    7DA1009621F9A0E005B
+    7DA2100FED500000000
+- expected_values:
+    NX_HVBAT_C: 25.7
+    NX_HVBAT_V: 346
+  response: |-
+    7EC03410400
+    7DA1009621F9A0E0256
+    7DA2180010100000000
+- expected_values:
+    NX_HVBAT_C: -29.9
+    NX_HVBAT_V: 365
+  response: |-
+    7EC034104FF
+    7DA1009621F9A0E005B
+    7DA2140FED500000000
+- expected_values:
+    NX_HVBAT_C: -0.5
+    NX_HVBAT_V: 332
+  response: |-
+    7EC03410577
+    7DA1009621F9A0E0053
+    7DA2100FFFB00000000
+- expected_values:
+    NX_HVBAT_C: -13.1
+    NX_HVBAT_V: 380
+  response: |-
+    7EC04411F02A2
+    7DA1009621F9A0E025F
+    7DA2100FF7D00000000
+- expected_values:
+    NX_HVBAT_C: -1.4
+    NX_HVBAT_V: 347
+  response: |-
+    7EC0441312AFA
+    7DA1009621F9A0E0056
+    7DA21C0FFF200000000
+- expected_values:
+    NX_HVBAT_C: -14.1
+    NX_HVBAT_V: 349
+  response: |-
+    7EC0441312E23
+    7DA1009621F9A0E0257
+    7DA2140FF7300000000
+- expected_values:
+    NX_HVBAT_C: 2.9
+    NX_HVBAT_V: 372
+  response: |-
+    7EE03410F4B
+    7DA1009621F9A0E025D
+    7DA2100001D00000000
+- expected_values:
+    NX_HVBAT_C: 34.6
+    NX_HVBAT_V: 351
+  response: |-
+    7EF03410400
+    7DA1009621F9A0E0257
+    7DA21C0015A00000000
+- expected_values:
+    NX_HVBAT_C: 61.9
+    NX_HVBAT_V: 347
+  response: |-
+    7EF04410C0000
+    7DA1009621F9A0E0256
+    7DA21C0026B00000000

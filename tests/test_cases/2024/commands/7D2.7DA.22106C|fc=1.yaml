@@ -1,0 +1,18 @@
+command_id: 7D2.7DA.22106C|fc=1
+test_cases:
+- expected_values:
+    NX_HVBAT_SOC_MAX: 0
+    NX_HVBAT_SOC_MIN: 0
+  response: 7DA0662106C000000
+- expected_values:
+    NX_HVBAT_SOC_MAX: 66.5
+    NX_HVBAT_SOC_MIN: 49.5
+  response: 7DA0662106C858563
+- expected_values:
+    NX_HVBAT_SOC_MAX: 90.5
+    NX_HVBAT_SOC_MIN: 90.5
+  response: 7DA0662106CB5B5B5
+- expected_values:
+    NX_HVBAT_SOC_MAX: 91
+    NX_HVBAT_SOC_MIN: 42
+  response: 7DA0662106CB6B654

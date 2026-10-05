@@ -1,0 +1,184 @@
+command_id: 7D2.7DA.2210A2
+test_cases:
+- expected_values:
+    NX_RM_TQ: -0.875
+    NX_RM_TQ_REQ: -451
+  response: |-
+    7DA100C6210A27E3D7F
+    7DA21F904007FF90400
+- expected_values:
+    NX_RM_TQ: -2
+    NX_RM_TQ_REQ: -309
+  response: |-
+    7DA100C6210A27ECB7F
+    7DA21ED04007FF00400
+- expected_values:
+    NX_RM_TQ: -4.125
+    NX_RM_TQ_REQ: -85
+  response: |-
+    7DA100C6210A27FAB7F
+    7DA21DD04007FDF0400
+- expected_values:
+    NX_RM_TQ: -36.25
+    NX_RM_TQ_REQ: -42
+  response: |-
+    7DA100C6210A27FD67E
+    7DA21C804007EDE0400
+- expected_values:
+    NX_RM_TQ: 2.25
+    NX_RM_TQ_REQ: -20
+  response: |-
+    7DA100C6210A27FEC80
+    7DA210B040080120400
+- expected_values:
+    NX_RM_TQ: 6.125
+    NX_RM_TQ_REQ: -9
+  response: |-
+    7DA100C6210A27FF780
+    7DA2130040080310400
+- expected_values:
+    NX_RM_TQ: 1.5
+    NX_RM_TQ_REQ: -4
+  response: |-
+    7DA100C6210A27FFC80
+    7DA210D0400800C0400
+- expected_values:
+    NX_RM_TQ: 0
+    NX_RM_TQ_REQ: -3
+  response: |-
+    7DA100C6210A27FFD80
+    7DA2100040080000000
+- expected_values:
+    NX_RM_TQ: -13.375
+    NX_RM_TQ_REQ: -1
+  response: |-
+    7DA100C6210A27FFF7F
+    7DA219004007F950400
+- expected_values:
+    NX_RM_TQ: 3.625
+    NX_RM_TQ_REQ: -1
+  response: |-
+    7DA100C6210A27FFF80
+    7DA211F0400801D0400
+- expected_values:
+    NX_RM_TQ: -15
+    NX_RM_TQ_REQ: 0
+  response: |-
+    7DA100C6210A280007F
+    7DA218C04007F880400
+- expected_values:
+    NX_RM_TQ: 65.5
+    NX_RM_TQ_REQ: 1414
+  response: |-
+    7DA100C6210A2858682
+    7DA21030400820C0400
+- expected_values:
+    NX_RM_TQ: 49.75
+    NX_RM_TQ_REQ: 3721
+  response: |-
+    7DA100C6210A28E8981
+    7DA21730402818E0400
+- expected_values:
+    NX_RM_TQ: 0.125
+    NX_RM_TQ_REQ: 10294
+  response: |-
+    7DA100C6210A2A83680
+    7DA2100040280010400
+- expected_values:
+    NX_RM_TQ: 0.625
+    NX_RM_TQ_REQ: 0
+  response: |-
+    7E803410400
+    7DA100C6210A2800080
+    7DA2107040080050400
+- expected_values:
+    NX_RM_TQ: -1.375
+    NX_RM_TQ_REQ: 4062
+  response: |-
+    7E804411F0378
+    7DA100C6210A28FDE7F
+    7DA21F404007FF50400
+- expected_values:
+    NX_RM_TQ: 0
+    NX_RM_TQ_REQ: 2293
+  response: |-
+    7EA04410C0000
+    7DA100C6210A288F580
+    7DA2100040080000400
+- expected_values:
+    NX_RM_TQ: -5.625
+    NX_RM_TQ_REQ: 6841
+  response: |-
+    7EB03410583
+    7DA100C6210A29AB97F
+    7DA21CB04007FD30400
+- expected_values:
+    NX_RM_TQ: 0.25
+    NX_RM_TQ_REQ: 4509
+  response: |-
+    7EC034104D1
+    7DA100C6210A2919D80
+    7DA2100040080020400
+- expected_values:
+    NX_RM_TQ: 0
+    NX_RM_TQ_REQ: 447
+  response: |-
+    7EC03410558
+    7DA100C6210A281BF80
+    7DA2100040080000400
+- expected_values:
+    NX_RM_TQ: -3
+    NX_RM_TQ_REQ: -82
+  response: |-
+    7EC0341056D
+    7DA100C6210A27FAE7F
+    7DA21E604007FE80400
+- expected_values:
+    NX_RM_TQ: -3
+    NX_RM_TQ_REQ: 2391
+  response: |-
+    7EC0341056D
+    7DA100C6210A289577F
+    7DA21EE04007FE80400
+- expected_values:
+    NX_RM_TQ: 1
+    NX_RM_TQ_REQ: 0
+  response: |-
+    7EC03411132
+    7DA100C6210A2800080
+    7DA2109040080080400
+- expected_values:
+    NX_RM_TQ: 2.625
+    NX_RM_TQ_REQ: 127
+  response: |-
+    7EC04410C0000
+    7DA100C6210A2807F80
+    7DA2119040080150400
+- expected_values:
+    NX_RM_TQ: 0.125
+    NX_RM_TQ_REQ: 6081
+  response: |-
+    7EC04411F0849
+    7DA100C6210A297C180
+    7DA2100040080010400
+- expected_values:
+    NX_RM_TQ: -12.75
+    NX_RM_TQ_REQ: -24
+  response: |-
+    7EC04411F17D7
+    7DA100C6210A27FE87F
+    7DA219704007F9A0400
+- expected_values:
+    NX_RM_TQ: -2.625
+    NX_RM_TQ_REQ: -152
+  response: |-
+    7EE03410558
+    7DA100C6210A27F687F
+    7DA21EA04007FEB0400
+- expected_values:
+    NX_RM_TQ: 0.125
+    NX_RM_TQ_REQ: 3044
+  response: |-
+    7EF034104CD
+    7DA100C6210A28BE480
+    7DA2100040080010400

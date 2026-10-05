@@ -1,0 +1,114 @@
+command_id: 700.708.2210A5
+test_cases:
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    70810086210A5000000
+    70821009D0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    70810086210A5000000
+    7082100BF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    70810086210A5000000
+    7082100C00000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    70810086210A5000000
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    70810086210A50000FE
+    7082100D90000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    70810086210A5000100
+    7082100DB0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    70810086210A5000159
+    7082100620000000000
+- expected_values:
+    NX_MIS_ALL: 1
+  response: |-
+    70810086210A5010000
+    7082100CA0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7E804410C0000
+    70810086210A50000EF
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7E80441312BB8
+    70810086210A5000000
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EA03410400
+    70810086210A5000088
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EA03410400
+    70810086210A5000140
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EB03410436
+    70810086210A5000000
+    7082100DE0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EC034104BC
+    70810086210A5000000
+    7082100D50000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EC0341057F
+    70810086210A5000187
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EC03411129
+    70810086210A500015E
+    7082100CC0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EC04410C0000
+    70810086210A5000178
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EC04411F0443
+    70810086210A5000000
+    7082100DE0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EE04411F06D1
+    70810086210A5000065
+    7082100FF0000000000
+- expected_values:
+    NX_MIS_ALL: 0
+  response: |-
+    7EF03410400
+    70810086210A500009C
+    7082100FF0000000000

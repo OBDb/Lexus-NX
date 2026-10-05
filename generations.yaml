@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Lexus_NX"
+
+generations:
+  - name: "First Generation (AZ10)"
+    start_year: 2015
+    end_year: 2021
+    description: "The first NX, on Toyota's MC platform, sold as the NX 200t and later NX 300 with a 2.0-liter turbo four, and as the NX 300h hybrid."
+  - name: "Second Generation (AZ20)"
+    start_year: 2022
+    end_year: null
+    description: "The second NX, on the TNGA-K platform, sold as the NX 250, NX 350 turbo, NX 350h hybrid and NX 450h+ plug-in hybrid."

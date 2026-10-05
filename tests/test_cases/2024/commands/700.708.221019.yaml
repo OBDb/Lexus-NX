@@ -1,0 +1,17 @@
+command_id: 700.708.221019
+test_cases:
+- expected_values:
+    NX_INJECTION: DIRECT
+  response: 7080762101901ED8000
+- expected_values:
+    NX_INJECTION: DIRECT
+  response: 7080762101901FF8000
+- expected_values:
+    NX_INJECTION: BOTH
+  response: '7080762101902008000'
+- expected_values:
+    NX_INJECTION: BOTH
+  response: 7080762101902B08C1C
+- expected_values:
+    NX_INJECTION: BOTH
+  response: 7080762101902C78AFD

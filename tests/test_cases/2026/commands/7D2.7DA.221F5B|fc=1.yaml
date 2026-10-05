@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F5B|fc=1
+test_cases:
+- expected_values:
+    NX_SOC: 10.98039
+  response: 7DA04621F5B1C
+- expected_values:
+    NX_SOC: 90.98039
+  response: 7DA04621F5BE8

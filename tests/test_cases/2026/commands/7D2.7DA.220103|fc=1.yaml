@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.220103|fc=1
+test_cases:
+- expected_values:
+    NX_ODO_V2: 1196
+  response: 7DA07620103020004AC
+- expected_values:
+    NX_ODO_V2: 1535
+  response: 7DA07620103020005FF
+- expected_values:
+    NX_ODO_V2: 1536
+  response: 7DA0762010302000600
+- expected_values:
+    NX_ODO_V2: 4864
+  response: 7DA0762010302001300

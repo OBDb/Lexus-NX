@@ -1,0 +1,14 @@
+command_id: 7C0.7C8.221022|fc=1
+test_cases:
+- expected_values:
+    NX_FLV: 5.01
+  response: 7C80562102201F5
+- expected_values:
+    NX_FLV: 15.35
+  response: 7C80562102205FF
+- expected_values:
+    NX_FLV: 17.92
+  response: 7C8056210220700
+- expected_values:
+    NX_FLV: null
+  response: 7C805621022FFFF

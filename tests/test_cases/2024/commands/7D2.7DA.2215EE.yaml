@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.2215EE
+test_cases:
+- expected_values:
+    NX_12V_V: 11.64826
+  response: 7DA056215EE2522
+- expected_values:
+    NX_12V_V: 11.64826
+  response: 7DA056215EE25FE
+- expected_values:
+    NX_12V_V: 11.96274
+  response: 7DA056215EE2600
+- expected_values:
+    NX_12V_V: 14.47858
+  response: 7DA056215EE2E00

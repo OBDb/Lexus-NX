@@ -1,0 +1,32 @@
+command_id: 747.74F.221F9A
+test_cases:
+- expected_values:
+    NX_HYBRID_BAT_CURRENT: 149.1
+  response: |-
+    74F1009621F9A06004F
+    74F21C005D300000000
+- expected_values:
+    NX_HYBRID_BAT_CURRENT: 73.7
+  response: |-
+    74F1009621F9A060051
+    74F210002E100000000
+- expected_values:
+    NX_HYBRID_BAT_CURRENT: -1.6
+  response: |-
+    74F1009621F9A060053
+    74F2140FFF000000000
+- expected_values:
+    NX_HYBRID_BAT_CURRENT: 0.2
+  response: |-
+    74F1009621F9A060053
+    74F2180000200000000
+- expected_values:
+    NX_HYBRID_BAT_CURRENT: -16.1
+  response: |-
+    74F1009621F9A060053
+    74F2180FF5F00000000
+- expected_values:
+    NX_HYBRID_BAT_CURRENT: 2.9
+  response: |-
+    74F1009621F9A060060
+    74F2100001D00000000

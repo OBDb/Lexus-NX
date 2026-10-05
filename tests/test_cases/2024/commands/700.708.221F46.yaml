@@ -1,0 +1,8 @@
+command_id: 700.708.221F46
+test_cases:
+- expected_values:
+    NX_AMBIENT_T_700: 6
+  response: 70804621F462E
+- expected_values:
+    NX_AMBIENT_T_700: 43
+  response: 70804621F4653

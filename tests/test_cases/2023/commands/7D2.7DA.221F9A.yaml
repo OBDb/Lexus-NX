@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    NX_HVBAT_C: 2.4
+    NX_HVBAT_V: 256
+  response: |-
+    7DA1009621F9A0E0040
+    7DA2100001800000000
