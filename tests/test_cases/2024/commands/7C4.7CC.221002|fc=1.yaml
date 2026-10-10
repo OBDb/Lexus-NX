@@ -10,5 +10,5 @@ test_cases:
     NX_AAT_7C4_V2: 20.48
   response: 7CC056210020800
 - expected_values:
-    NX_AAT_7C4_V2: 30.39
-  response: 7CC056210020BDF
+    NX_AAT_7C4_V2: 28.39
+  response: 7CC056210020B17
