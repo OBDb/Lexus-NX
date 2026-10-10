@@ -1,0 +1,17 @@
+command_id: 7C4.7CC.221002|fc=1
+test_cases:
+- expected_values:
+    NX_AAT_7C4_V2: 22.17
+  response: 7CC0562100208A9
+- expected_values:
+    NX_AAT_7C4_V2: 22.22
+  response: 7CC0562100208AE
+- expected_values:
+    NX_AAT_7C4_V2: 22.31
+  response: 7CC0562100208B7
+- expected_values:
+    NX_AAT_7C4_V2: 22.45
+  response: 7CC0562100208C5
+- expected_values:
+    NX_AAT_7C4_V2: 22.59
+  response: 7CC0562100208D3

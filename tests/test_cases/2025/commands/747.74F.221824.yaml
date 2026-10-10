@@ -1,0 +1,17 @@
+command_id: 747.74F.221824
+test_cases:
+- expected_values:
+    NX_BAT_HEATER_T: 19
+  response: 74F06621824458DB8
+- expected_values:
+    NX_BAT_HEATER_T: 19
+  response: 74F06621824458DC8
+- expected_values:
+    NX_BAT_HEATER_T: 19
+  response: 74F06621824458DD8
+- expected_values:
+    NX_BAT_HEATER_T: 19
+  response: 74F06621824458DE8
+- expected_values:
+    NX_BAT_HEATER_T: 19
+  response: 74F06621824458E08

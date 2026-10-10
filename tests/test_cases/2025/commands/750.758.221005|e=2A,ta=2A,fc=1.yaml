@@ -1,0 +1,62 @@
+command_id: 750.758.221005|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    NX_TP_FL_V2: null
+    NX_TP_FR_V2: null
+    NX_TP_RL_V2: null
+    NX_TP_RR_V2: null
+    NX_TP_SPARE_V2: null
+  response: |-
+    7582A100D6210050000
+    7582A21000000000000
+    7582A22000000000000
+- expected_values:
+    NX_TP_RL_V2: 2.51724
+  response: |-
+    7582A100D6210050000
+    7582A21000000AF0000
+    7582A22000000000000
+- expected_values:
+    NX_TP_FR_V2: 2.55172
+    NX_TP_RL_V2: 2.56897
+    NX_TP_RR_V2: 2.15517
+  response: |-
+    7582A100D6210050000
+    7582A2100B100B2009A
+    7582A22000000000000
+- expected_values:
+    NX_TP_FL_V2: 2.43103
+    NX_TP_FR_V2: 2.43103
+    NX_TP_RL_V2: 2.43103
+    NX_TP_RR_V2: 2.24138
+  response: |-
+    7582A100D62100500AA
+    7582A2100AA00AA009F
+    7582A22000000000000
+- expected_values:
+    NX_TP_FL_V2: 2.5
+    NX_TP_FR_V2: 2.51724
+    NX_TP_RL_V2: 2.53448
+    NX_TP_RR_V2: 3.06897
+  response: |-
+    7582A100D62100500AE
+    7582A2100AF00B000CF
+    7582A22000000000000
+- expected_values:
+    NX_TP_FL_V2: 2.51724
+    NX_TP_FR_V2: 2.55172
+    NX_TP_RL_V2: 2.55172
+    NX_TP_RR_V2: 3.65517
+  response: |-
+    7582A100D62100500AF
+    7582A2100B100B100F1
+    7582A22000000000000
+- expected_values:
+    NX_TP_FL_V2: 2.72414
+    NX_TP_FR_V2: 2.74138
+    NX_TP_RL_V2: 2.74138
+    NX_TP_RR_V2: 2.60345
+  response: |-
+    7582A100D62100500BB
+    7582A2100BC00BC00B4
+    7582A22000000000000

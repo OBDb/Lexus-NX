@@ -1,0 +1,97 @@
+command_id: 7D2.7DA.2210A1
+test_cases:
+- expected_values:
+    NX_RPM: -3
+    NX_TQ: -0.125
+  response: |-
+    7DA100C6210A17FFD80
+    7DA210003007FFF0400
+- expected_values:
+    NX_RPM: -3
+    NX_TQ: 0
+  response: |-
+    7DA100C6210A17FFD80
+    7DA2100030080000400
+- expected_values:
+    NX_RPM: -2
+    NX_TQ: -2
+  response: |-
+    7DA100C6210A17FFE7F
+    7DA21F503007FF00400
+- expected_values:
+    NX_RPM: -1
+    NX_TQ: -4.5
+  response: |-
+    7DA100C6210A17FFF7F
+    7DA21D803007FDC0400
+- expected_values:
+    NX_RPM: 0
+    NX_TQ: -6.625
+  response: |-
+    7DA100C6210A180007F
+    7DA21C603007FCB0400
+- expected_values:
+    NX_RPM: 113
+    NX_TQ: 91.25
+  response: |-
+    7DA100C6210A1807183
+    7DA210C030082DA0400
+- expected_values:
+    NX_RPM: 1021
+    NX_TQ: -96.625
+  response: |-
+    7DA100C6210A183FD7C
+    7DA21CF03007CFB0400
+- expected_values:
+    NX_RPM: 1947
+    NX_TQ: -15.125
+  response: |-
+    7DA100C6210A1879B7F
+    7DA217704007F870400
+- expected_values:
+    NX_RPM: 3970
+    NX_TQ: 52.5
+  response: |-
+    7DA100C6210A18F8281
+    7DA2195040181A40400
+- expected_values:
+    NX_RPM: 5173
+    NX_TQ: 1.875
+  response: |-
+    7DA100C6210A1943580
+    7DA211A0400800F0400
+- expected_values:
+    NX_RPM: -7
+    NX_TQ: 15.875
+  response: |-
+    7EC0341042D
+    7DA100C6210A17FF980
+    7DA218A0300807F0400
+- expected_values:
+    NX_RPM: 4129
+    NX_TQ: -1.875
+  response: |-
+    7EC034104A0
+    7DA100C6210A190217F
+    7DA21EB04007FF10400
+- expected_values:
+    NX_RPM: 125
+    NX_TQ: 38.25
+  response: |-
+    7ED04413113A0
+    7DA100C6210A1807D81
+    7DA2132030081320400
+- expected_values:
+    NX_RPM: 1542
+    NX_TQ: -76.875
+  response: |-
+    7EF0341042A
+    7DA100C6210A186067D
+    7DA218103007D990400
+- expected_values:
+    NX_RPM: 1918
+    NX_TQ: -23.75
+  response: |-
+    7EF0341042A
+    7DA100C6210A1877E7F
+    7DA213A03007F420400

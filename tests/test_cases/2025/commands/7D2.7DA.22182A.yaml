@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.22182A
+test_cases:
+- expected_values:
+    NX_HVBAT_MIN_T: 0
+  response: '7DA 05 62 18 2A 32 00 '
+- expected_values:
+    NX_HVBAT_MIN_T: -3
+  response: 7DA0562182A2F00
+- expected_values:
+    NX_HVBAT_MIN_T: 23
+  response: 7DA0562182A4900

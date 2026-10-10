@@ -1,0 +1,14 @@
+command_id: 700.708.222848
+test_cases:
+- expected_values:
+    NX_EOP_CONTROL_VALVE: 99.94501
+  response: 70805622848051E
+- expected_values:
+    NX_EOP_CONTROL_VALVE: 585.93715
+  response: '708056228481E00'
+- expected_values:
+    NX_EOP_CONTROL_VALVE: 761.642
+  response: 7080562284826FF
+- expected_values:
+    NX_EOP_CONTROL_VALVE: 987.62454
+  response: '708056228483291'

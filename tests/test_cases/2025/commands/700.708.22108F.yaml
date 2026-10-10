@@ -1,0 +1,8 @@
+command_id: 700.708.22108F
+test_cases:
+- expected_values:
+    NX_EXHAUST_VVT_OVER_ADV_LEARN_B1: 92.64645
+  response: 7080562108F250F
+- expected_values:
+    NX_EXHAUST_VVT_OVER_ADV_LEARN_B1: 94.43356
+  response: 7080562108F25C6

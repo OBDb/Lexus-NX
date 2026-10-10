@@ -1,0 +1,14 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    NX_DIST_SINCE_BAT_DISC: 1855
+  response: 7080562106C073F
+- expected_values:
+    NX_DIST_SINCE_BAT_DISC: 2303
+  response: 7080562106C08FF
+- expected_values:
+    NX_DIST_SINCE_BAT_DISC: 2816
+  response: 7080562106C0B00
+- expected_values:
+    NX_DIST_SINCE_BAT_DISC: 7936
+  response: 7080562106C1F00

@@ -1,0 +1,26 @@
+command_id: 7D2.7DA.2210A7
+test_cases:
+- expected_values:
+    NX_BOOSTING_CONV_T_HI: 12
+    NX_BOOSTING_CONV_T_LO: 13
+  response: 7DA076210A734353435
+- expected_values:
+    NX_BOOSTING_CONV_T_HI: 14
+    NX_BOOSTING_CONV_T_LO: 14
+  response: 7DA076210A736363336
+- expected_values:
+    NX_BOOSTING_CONV_T_HI: 22
+    NX_BOOSTING_CONV_T_LO: 22
+  response: 7DA076210A73E3E3B65
+- expected_values:
+    NX_BOOSTING_CONV_T_HI: 24
+    NX_BOOSTING_CONV_T_LO: 24
+  response: 7DA076210A740404A51
+- expected_values:
+    NX_BOOSTING_CONV_T_HI: 26
+    NX_BOOSTING_CONV_T_LO: 45
+  response: 7DA076210A742553B65
+- expected_values:
+    NX_BOOSTING_CONV_T_HI: 40
+    NX_BOOSTING_CONV_T_LO: 30
+  response: 7DA076210A750464954

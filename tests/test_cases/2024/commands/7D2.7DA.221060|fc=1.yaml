@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221060|fc=1
+test_cases:
+- expected_values:
+    NX_APP_V2: 0
+  response: 7DA0462106000
+- expected_values:
+    NX_APP_V2: 83.5
+  response: 7DA04621060A7

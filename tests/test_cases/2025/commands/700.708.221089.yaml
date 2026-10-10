@@ -1,0 +1,29 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 48.96311
+  response: 708056210891F58
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 49.57332
+  response: 708056210891FBC
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 49.57942
+  response: 708056210891FBD
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 49.95165
+  response: 708056210891FFA
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 50.50084
+  response: '708056210892054'
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 50.54965
+  response: 70805621089205C
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 51.35513
+  response: '7080562108920E0'
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 51.37954
+  response: '7080562108920E4'
+- expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 51.75176
+  response: '708056210892121'

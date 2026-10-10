@@ -1,0 +1,17 @@
+command_id: 7D2.7DA.2210A5
+test_cases:
+- expected_values:
+    NX_MAX_MOTOR_INVERTER_T: 0
+    NX_MOTOR_INVERTER_T: 0
+    NX_MOTOR_INVERTER_T_ON: 0
+  response: 7DA066210A5282828
+- expected_values:
+    NX_MAX_MOTOR_INVERTER_T: 55
+    NX_MOTOR_INVERTER_T: 22
+    NX_MOTOR_INVERTER_T_ON: 26
+  response: 7DA066210A53E425F
+- expected_values:
+    NX_MAX_MOTOR_INVERTER_T: 52
+    NX_MOTOR_INVERTER_T: 44
+    NX_MOTOR_INVERTER_T_ON: 26
+  response: 7DA066210A554425C

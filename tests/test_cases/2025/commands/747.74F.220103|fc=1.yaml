@@ -1,0 +1,14 @@
+command_id: 747.74F.220103|fc=1
+test_cases:
+- expected_values:
+    NX_ODO: 22422
+  response: 74F0762010301005796
+- expected_values:
+    NX_ODO: 3301
+  response: 74F0762010302000CE5
+- expected_values:
+    NX_ODO: 3325
+  response: 74F0762010302000CFD
+- expected_values:
+    NX_ODO: 3329
+  response: 74F0762010302000D01

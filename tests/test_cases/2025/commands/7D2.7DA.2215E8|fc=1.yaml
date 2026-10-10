@@ -1,0 +1,10 @@
+command_id: 7D2.7DA.2215E8|fc=1
+test_cases:
+- expected_values:
+    NX_12V_AH_IN: 1610.3
+    NX_12V_AH_OUT: 72.8
+    NX_READY_HOURS: 67
+  response: |-
+    7DA10146215E800003E
+    7DA21E7000002D88081
+    7DA220043000004D71A

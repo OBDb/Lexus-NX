@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221829
+test_cases:
+- expected_values:
+    NX_HVBAT_MAX_T: 25
+  response: 7DA056218294B00
+- expected_values:
+    NX_HVBAT_MAX_T: 41
+  response: 7DA056218295B00

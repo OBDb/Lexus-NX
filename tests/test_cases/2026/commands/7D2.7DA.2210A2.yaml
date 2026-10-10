@@ -1,0 +1,56 @@
+command_id: 7D2.7DA.2210A2
+test_cases:
+- expected_values:
+    NX_RM_TQ: -1.875
+    NX_RM_TQ_REQ: -151
+  response: |-
+    7DA100C6210A27F697F
+    7DA21EF04007FF10400
+- expected_values:
+    NX_RM_TQ: -1.625
+    NX_RM_TQ_REQ: -145
+  response: |-
+    7DA100C6210A27F6F7F
+    7DA21F104007FF30400
+- expected_values:
+    NX_RM_TQ: 0
+    NX_RM_TQ_REQ: -6
+  response: |-
+    7DA100C6210A27FFA80
+    7DA2100040080000400
+- expected_values:
+    NX_RM_TQ: -0.125
+    NX_RM_TQ_REQ: -1
+  response: |-
+    7DA100C6210A27FFF80
+    7DA210004007FFF0400
+- expected_values:
+    NX_RM_TQ: 0
+    NX_RM_TQ_REQ: -1
+  response: |-
+    7DA100C6210A27FFF80
+    7DA2100040080000000
+- expected_values:
+    NX_RM_TQ: -0.125
+    NX_RM_TQ_REQ: 0
+  response: |-
+    7DA100C6210A2800080
+    7DA210004007FFF0400
+- expected_values:
+    NX_RM_TQ: 75.625
+    NX_RM_TQ_REQ: 881
+  response: |-
+    7DA100C6210A2837182
+    7DA21510400825D0400
+- expected_values:
+    NX_RM_TQ: 0
+    NX_RM_TQ_REQ: 6191
+  response: |-
+    7DA100C6210A2982F80
+    7DA2100040280000400
+- expected_values:
+    NX_RM_TQ: 0.25
+    NX_RM_TQ_REQ: 9245
+  response: |-
+    7DA100C6210A2A41D80
+    7DA2100040280020400

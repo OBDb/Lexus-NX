@@ -1,0 +1,14 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    NX_EOP: 2.57812
+  response: '708056210740021'
+- expected_values:
+    NX_EOP: 200
+  response: 708056210740A00
+- expected_values:
+    NX_EOP: 219.84375
+  response: 708056210740AFE
+- expected_values:
+    NX_EOP: 603.90625
+  response: '708056210741E32'

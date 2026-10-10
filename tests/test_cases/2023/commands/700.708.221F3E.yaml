@@ -1,0 +1,5 @@
+command_id: 700.708.221F3E
+test_cases:
+- expected_values:
+    NX_CAT_T_12: 345.2
+  response: 70805621F3E0F0C

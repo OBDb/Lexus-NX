@@ -1,0 +1,5 @@
+command_id: 7C0.7C8.221022|fc=1
+test_cases:
+- expected_values:
+    NX_FLV: 20.42
+  response: 7C80562102207FA

@@ -1,0 +1,20 @@
+command_id: 7D2.7DA.221039
+test_cases:
+- expected_values:
+    NX_FRONT_REAR_MOTOR_TQ: -32.608
+  response: 7DA07621039033300A0
+- expected_values:
+    NX_FRONT_REAR_MOTOR_TQ: -29.006
+  response: 7DA0762103925F90EB2
+- expected_values:
+    NX_FRONT_REAR_MOTOR_TQ: -28.921
+  response: 7DA07621039262F0F07
+- expected_values:
+    NX_FRONT_REAR_MOTOR_TQ: -28.676
+  response: 7DA07621039268F0FFC
+- expected_values:
+    NX_FRONT_REAR_MOTOR_TQ: -28.658
+  response: 7DA07621039268F100E
+- expected_values:
+    NX_FRONT_REAR_MOTOR_TQ: -28.885
+  response: 7DA07621039270A0F2B
