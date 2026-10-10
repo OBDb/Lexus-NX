@@ -7,8 +7,5 @@ test_cases:
     NX_CABIN_T_V2: 23.05
   response: 7CC056210010901
 - expected_values:
-    NX_CABIN_T_V2: 25.58
-  response: 7CC0562100109FE
-- expected_values:
-    NX_CABIN_T_V2: 28.28
-  response: 7CC056210010B0C
+    NX_CABIN_T_V2: 38.39
+  response: 7CC056210010EFF
