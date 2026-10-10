@@ -1,6 +1,12 @@
 command_id: 7D2.7DA.2210A2
 test_cases:
 - expected_values:
+    NX_RM_TQ: -2
+    NX_RM_TQ_REQ: -166
+  response: |-
+    7DA100C6210A27F5A7F
+    7DA21EE04007FF00400
+- expected_values:
     NX_RM_TQ: -1.875
     NX_RM_TQ_REQ: -151
   response: |-
