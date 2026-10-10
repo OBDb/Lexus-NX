@@ -1,0 +1,32 @@
+command_id: 7D2.7DA.220102
+test_cases:
+- expected_values:
+    NX_KEY_CYCLE: 1568
+  response: |-
+    7DA100A620102062000
+    7DA2112BAB001000000
+- expected_values:
+    NX_KEY_CYCLE: 1568
+  response: |-
+    7DA100A620102062000
+    7DA2113F91601000000
+- expected_values:
+    NX_KEY_CYCLE: 1568
+  response: |-
+    7DA100A620102062000
+    7DA2115CE7601000000
+- expected_values:
+    NX_KEY_CYCLE: 1568
+  response: |-
+    7DA100A620102062000
+    7DA2117559101000000
+- expected_values:
+    NX_KEY_CYCLE: 1568
+  response: |-
+    7DA100A620102062000
+    7DA2118317801000000
+- expected_values:
+    NX_KEY_CYCLE: 1568
+  response: |-
+    7DA100A620102062000
+    7DA211A006201000000

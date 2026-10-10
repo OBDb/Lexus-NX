@@ -4,11 +4,17 @@ test_cases:
     NX_BAT_HEATER_T: 15
   response: 74F06621824419619
 - expected_values:
-    NX_BAT_HEATER_T: 16
-  response: 74F066218244295F9
+    NX_BAT_HEATER_T: 15
+  response: 74F066218244197F9
 - expected_values:
-    NX_BAT_HEATER_T: 19
-  response: 74F06621824458D08
+    NX_BAT_HEATER_T: 15
+  response: 74F06621824419819
 - expected_values:
-    NX_BAT_HEATER_T: 23
-  response: 74F066218244982E8
+    NX_BAT_HEATER_T: 32
+  response: 74F06621824526E06
+- expected_values:
+    NX_BAT_HEATER_T: 36
+  response: 74F06621824566486
+- expected_values:
+    NX_BAT_HEATER_T: 37
+  response: 74F06621824576426

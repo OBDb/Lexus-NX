@@ -4,6 +4,9 @@ test_cases:
     NX_EXHAUST_VVT_HOLD_LEARN_B1: 48.96311
   response: 708056210891F58
 - expected_values:
+    NX_EXHAUST_VVT_HOLD_LEARN_B1: 49.57332
+  response: 708056210891FBC
+- expected_values:
     NX_EXHAUST_VVT_HOLD_LEARN_B1: 49.57942
   response: 708056210891FBD
 - expected_values:

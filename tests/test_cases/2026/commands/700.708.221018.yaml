@@ -7,5 +7,5 @@ test_cases:
     NX_INJECTOR_PORT: 6.399
   response: 7080562101818FF
 - expected_values:
-    NX_INJECTOR_PORT: 11.699
-  response: 708056210182DB3
+    NX_INJECTOR_PORT: 11.825
+  response: '708056210182E31'

@@ -1,6 +1,12 @@
 command_id: 7D2.7DA.221F9A
 test_cases:
 - expected_values:
+    NX_HVBAT_C: 231.1
+    NX_HVBAT_V: 292
+  response: |-
+    7DA1009621F9A0E0049
+    7DA2100090700000000
+- expected_values:
     NX_HVBAT_C: 53.7
     NX_HVBAT_V: 315
   response: |-
@@ -12,12 +18,6 @@ test_cases:
   response: |-
     7DA1009621F9A0E004F
     7DA21C001EF00000000
-- expected_values:
-    NX_HVBAT_C: 25.2
-    NX_HVBAT_V: 320
-  response: |-
-    7DA1009621F9A0E0050
-    7DA210000FC00000000
 - expected_values:
     NX_HVBAT_C: -47.8
     NX_HVBAT_V: 326

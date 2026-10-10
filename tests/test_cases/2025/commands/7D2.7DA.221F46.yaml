@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     NX_AAT: 16
   response: 7DA04621F4638
+- expected_values:
+    NX_AAT: 22
+  response: 7DA04621F463E

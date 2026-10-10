@@ -4,5 +4,5 @@ test_cases:
     NX_AC_POWER_CONS: 0
   response: 7DA0462106E00
 - expected_values:
-    NX_AC_POWER_CONS: 1.3
-  response: 7DA0462106E1A
+    NX_AC_POWER_CONS: 2.65
+  response: 7DA0462106E35

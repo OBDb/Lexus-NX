@@ -21,22 +21,27 @@ test_cases:
     7DA100A62010204E700
     7DA2110207201000000
 - expected_values:
-    NX_KEY_CYCLE: 1256
-  response: |-
-    7DA100A62010204E800
-    7DA2100EFBE01000000
-- expected_values:
-    NX_KEY_CYCLE: 1257
-  response: |-
-    7DA100A62010204E900
-    7DA2100DE7601000000
-- expected_values:
     NX_KEY_CYCLE: 1257
   response: |-
     7DA100A62010204E900
     7DA210EA00001000000
 - expected_values:
-    NX_KEY_CYCLE: 1257
+    NX_KEY_CYCLE: 1263
   response: |-
-    7DA100A62010204E900
-    7DA210F645A01000000
+    7DA100A62010204EF00
+    7DA2102CFEF01000000
+- expected_values:
+    NX_KEY_CYCLE: 1274
+  response: |-
+    7DA100A62010204FA00
+    7DA210FE09301000000
+- expected_values:
+    NX_KEY_CYCLE: 1276
+  response: |-
+    7DA100A62010204FC00
+    7DA2150B1EB01000000
+- expected_values:
+    NX_KEY_CYCLE: 1279
+  response: |-
+    7DA100A62010204FF00
+    7DA21014A9F01000000

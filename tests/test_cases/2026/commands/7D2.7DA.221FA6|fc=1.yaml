@@ -7,8 +7,8 @@ test_cases:
     NX_ODO_1FA6: 8089.6
   response: 7DA07621FA600013C00
 - expected_values:
-    NX_ODO_1FA6: 8114.9
-  response: 7DA07621FA600013CFD
+    NX_ODO_1FA6: 8140.7
+  response: 7DA07621FA600013DFF
 - expected_values:
-    NX_ODO_1FA6: 8115.4
-  response: 7DA07621FA600013D02
+    NX_ODO_1FA6: 8448.6
+  response: 7DA07621FA600014A06

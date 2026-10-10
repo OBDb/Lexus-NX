@@ -1,11 +1,14 @@
 command_id: 7C4.7CC.221001|fc=1
 test_cases:
 - expected_values:
-    NX_CABIN_T_V2: 17.27
-  response: 7CC0562100106BF
+    NX_CABIN_T_V2: 12.85
+  response: 7CC056210010505
 - expected_values:
     NX_CABIN_T_V2: 23.02
   response: 7CC0562100108FE
 - expected_values:
     NX_CABIN_T_V2: 23.05
   response: 7CC056210010901
+- expected_values:
+    NX_CABIN_T_V2: 25.72
+  response: 7CC056210010A0C

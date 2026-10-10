@@ -10,5 +10,5 @@ test_cases:
     NX_LFPS: 230.35
   response: 708056210CD88FF
 - expected_values:
-    NX_LFPS: 642.95
-  response: 708056210CD991D
+    NX_LFPS: 641.05
+  response: 708056210CD990A

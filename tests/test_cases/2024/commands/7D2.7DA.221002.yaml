@@ -4,11 +4,11 @@ test_cases:
     NX_AUX_BAT_V: 11.79984
   response: 7DA0562100225C8
 - expected_values:
-    NX_AUX_BAT_V: 12.60504
-  response: 7DA05621002285C
+    NX_AUX_BAT_V: 12.80512
+  response: 7DA056210022900
 - expected_values:
-    NX_AUX_BAT_V: 13.40048
-  response: 7DA056210022AE8
+    NX_AUX_BAT_V: 14.03
+  response: 7DA056210022CEC
 - expected_values:
-    NX_AUX_BAT_V: 14.18128
-  response: 7DA056210022D68
+    NX_AUX_BAT_V: 14.36672
+  response: 7DA056210022E00

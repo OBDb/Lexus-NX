@@ -10,5 +10,5 @@ test_cases:
     NX_ODO_V2: 1536
   response: 7DA0762010302000600
 - expected_values:
-    NX_ODO_V2: 4864
-  response: 7DA0762010302001300
+    NX_ODO_V2: 5120
+  response: 7DA0762010302001400

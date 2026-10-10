@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     NX_ENG_ODO: 3360
   response: 7080762010302000D20
+- expected_values:
+    NX_ENG_ODO: 6136
+  response: 70807620103020017F8
