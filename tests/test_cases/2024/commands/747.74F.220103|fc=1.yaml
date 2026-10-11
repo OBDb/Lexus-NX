@@ -13,5 +13,8 @@ test_cases:
     NX_ODO: 14336
   response: 74F0762010302003800
 - expected_values:
+    NX_ODO: 49954
+  response: 74F076201030200C322
+- expected_values:
     NX_ODO: null
   response: 74F0762010303FFFFFF

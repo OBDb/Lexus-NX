@@ -11,6 +11,18 @@ test_cases:
     7582A21000000000000
     7582A22000000000000
 - expected_values:
+    NX_TP_RR_V2: 2.48276
+  response: |-
+    7582A100D6210050000
+    7582A210000000000AD
+    7582A22000000000000
+- expected_values:
+    NX_TP_RL_V2: 2.34483
+  response: |-
+    7582A100D6210050000
+    7582A21000000A50000
+    7582A22000000000000
+- expected_values:
     NX_TP_RL_V2: 2.51724
   response: |-
     7582A100D6210050000

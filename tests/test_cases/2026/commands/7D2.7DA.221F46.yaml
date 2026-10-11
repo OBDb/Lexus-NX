@@ -4,5 +4,8 @@ test_cases:
     NX_AAT: null
   response: 7DA04621F4600
 - expected_values:
+    NX_AAT: 14
+  response: 7DA04621F4636
+- expected_values:
     NX_AAT: 33
   response: 7DA04621F4649
