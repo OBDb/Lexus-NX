@@ -5,7 +5,6 @@ test_cases:
     NX_TT_FR_V2: 37
     NX_TT_RL_V2: 34
     NX_TT_RR_V2: 35
-    NX_TT_SPARE_V2: -40
   response: |-
     7582A10086210044E4D
     7582A214A4B00000000
