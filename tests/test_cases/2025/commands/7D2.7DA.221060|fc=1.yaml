@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     NX_APP_V2: 0
   response: 7DA0462106000
+- expected_values:
+    NX_APP_V2: 18.5
+  response: 7DA0462106025

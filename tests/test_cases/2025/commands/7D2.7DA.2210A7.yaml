@@ -1,6 +1,14 @@
 command_id: 7D2.7DA.2210A7
 test_cases:
 - expected_values:
+    NX_BOOSTING_CONV_T_HI: 8
+    NX_BOOSTING_CONV_T_LO: 9
+  response: 7DA076210A730313031
+- expected_values:
+    NX_BOOSTING_CONV_T_HI: 11
+    NX_BOOSTING_CONV_T_LO: 11
+  response: 7DA076210A733333036
+- expected_values:
     NX_BOOSTING_CONV_T_HI: 22
     NX_BOOSTING_CONV_T_LO: 23
   response: 7DA076210A73E3F3742

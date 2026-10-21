@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     NX_SHIFT: P
   response: 7DA056210610001
+- expected_values:
+    NX_SHIFT: D
+  response: 7DA056210610608

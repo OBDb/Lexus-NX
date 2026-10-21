@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     NX_12V_BAT_V_SMOOTHED: 14.111
   response: 7DA05621F42371F
+- expected_values:
+    NX_12V_BAT_V_SMOOTHED: 14.125
+  response: 7DA05621F42372D
