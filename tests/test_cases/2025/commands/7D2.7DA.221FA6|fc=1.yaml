@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     NX_ODO_1FA6: 9875.6
   response: 7DA07621FA6000181C4
+- expected_values:
+    NX_ODO_1FA6: 10000
+  response: 7DA07621FA6000186A0

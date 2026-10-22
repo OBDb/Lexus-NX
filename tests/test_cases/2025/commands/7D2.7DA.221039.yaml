@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     NX_FRONT_REAR_MOTOR_TQ: -28.508
   response: 7DA07621039270A10A4
+- expected_values:
+    NX_FRONT_REAR_MOTOR_TQ: -28.503
+  response: 7DA07621039270A10A9
