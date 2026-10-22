@@ -40,3 +40,8 @@ test_cases:
   response: |-
     7DA100A620102062300
     7DA2102069701000000
+- expected_values:
+    NX_KEY_CYCLE: 1592
+  response: |-
+    7DA100A620102063800
+    7DA211BA0C401000000

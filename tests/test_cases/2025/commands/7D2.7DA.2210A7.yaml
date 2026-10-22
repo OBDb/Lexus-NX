@@ -9,6 +9,10 @@ test_cases:
     NX_BOOSTING_CONV_T_LO: 11
   response: 7DA076210A733333036
 - expected_values:
+    NX_BOOSTING_CONV_T_HI: 15
+    NX_BOOSTING_CONV_T_LO: 15
+  response: 7DA076210A737372E46
+- expected_values:
     NX_BOOSTING_CONV_T_HI: 22
     NX_BOOSTING_CONV_T_LO: 23
   response: 7DA076210A73E3F3742

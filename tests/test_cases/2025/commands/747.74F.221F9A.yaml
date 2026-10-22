@@ -1,6 +1,11 @@
 command_id: 747.74F.221F9A
 test_cases:
 - expected_values:
+    NX_HYBRID_BAT_CURRENT: 0.8
+  response: |-
+    74F1009621F9A060053
+    74F21C0000800000000
+- expected_values:
     NX_HYBRID_BAT_CURRENT: 1.2
   response: |-
     74F1009621F9A06005C

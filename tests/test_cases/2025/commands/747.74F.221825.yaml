@@ -7,6 +7,9 @@ test_cases:
     NX_HYBRID_BAT_HEATER_T_2: 53.6
   response: 74F066218253E9FC9
 - expected_values:
+    NX_HYBRID_BAT_HEATER_T_2: 59
+  response: 74F06621825419779
+- expected_values:
     NX_HYBRID_BAT_HEATER_T_2: 66.2
   response: 74F06621825458DB8
 - expected_values:
