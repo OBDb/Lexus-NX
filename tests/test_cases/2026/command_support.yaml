@@ -202,6 +202,7 @@ supported_commands_by_ecu:
   - 014A:APP_E
   - 014D:MIL_TIME
   - 014E:CLR_TIME
+  - 7E2.7EA.0105
   - 7E2.7EA.010D
   - 7E2.7EA.0131
   "7E3":
@@ -623,7 +624,6 @@ unsupported_commands_by_ecu:
   - 7E2.21D0
   - 7E2.21D3
   - 7E2.7EA.0104
-  - 7E2.7EA.0105
   - 7E2.7EA.010C
   - 7E2.7EA.0111
   - 7E2.7EA.0142
