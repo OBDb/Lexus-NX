@@ -10,6 +10,9 @@ test_cases:
     NX_INTAKE_VVT_OVER_RET_LEARN_B1: 32.76366
   response: 7080562108D0D1B
 - expected_values:
+    NX_INTAKE_VVT_OVER_RET_LEARN_B1: 32.77343
+  response: 7080562108D0D1C
+- expected_values:
     NX_INTAKE_VVT_OVER_RET_LEARN_B1: 32.79296
   response: 7080562108D0D1E
 - expected_values:

@@ -1,5 +1,8 @@
 command_id: 7D2.7DA.221004|fc=1
 test_cases:
 - expected_values:
+    NX_DRIVE_MODE: NORMAL
+  response: 7DA0462100400
+- expected_values:
     NX_DRIVE_MODE: ECO
   response: 7DA0462100406

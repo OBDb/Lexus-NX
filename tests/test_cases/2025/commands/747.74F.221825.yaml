@@ -2,6 +2,9 @@ command_id: 747.74F.221825
 test_cases:
 - expected_values:
     NX_HYBRID_BAT_HEATER_T_2: 53.6
+  response: 74F066218253E9E99
+- expected_values:
+    NX_HYBRID_BAT_HEATER_T_2: 53.6
   response: 74F066218253E9F99
 - expected_values:
     NX_HYBRID_BAT_HEATER_T_2: 53.6
