@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     NX_12V_BAT_V_BEFORE_SMR: 11.2927
   response: 7DA0562107E2360
+- expected_values:
+    NX_12V_BAT_V_BEFORE_SMR: 11.2927
+  response: 7DA0562107E23B0
