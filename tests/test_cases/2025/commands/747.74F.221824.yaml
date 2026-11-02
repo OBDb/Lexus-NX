@@ -5,6 +5,9 @@ test_cases:
   response: 74F066218243D9FF9
 - expected_values:
     NX_BAT_HEATER_T: 12
+  response: 74F066218243E9EE9
+- expected_values:
+    NX_BAT_HEATER_T: 12
   response: 74F066218243E9FB9
 - expected_values:
     NX_BAT_HEATER_T: 15
