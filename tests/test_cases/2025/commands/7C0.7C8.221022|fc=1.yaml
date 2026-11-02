@@ -4,8 +4,8 @@ test_cases:
     NX_FLV: 26.99
   response: 7C8056210220A8B
 - expected_values:
-    NX_FLV: 43.49
-  response: 7C80562102210FD
+    NX_FLV: 40.95
+  response: 7C8056210220FFF
 - expected_values:
     NX_FLV: 51.21
   response: 7C8056210221401

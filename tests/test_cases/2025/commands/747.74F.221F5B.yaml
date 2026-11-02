@@ -4,6 +4,9 @@ test_cases:
     NX_HYBRID_BAT_SOC: 16.47059
   response: 74F04621F5B2A
 - expected_values:
+    NX_HYBRID_BAT_SOC: 60
+  response: 74F04621F5B99
+- expected_values:
     NX_HYBRID_BAT_SOC: 63.13725
   response: 74F04621F5BA1
 - expected_values:
