@@ -1,6 +1,12 @@
 command_id: 747.74F.221F5B
 test_cases:
 - expected_values:
+    NX_HYBRID_BAT_SOC: 14.5098
+  response: 74F04621F5B25
+- expected_values:
+    NX_HYBRID_BAT_SOC: 14.90196
+  response: 74F04621F5B26
+- expected_values:
     NX_HYBRID_BAT_SOC: 16.47059
   response: 74F04621F5B2A
 - expected_values:
