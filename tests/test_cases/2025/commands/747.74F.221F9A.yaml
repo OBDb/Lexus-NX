@@ -6,6 +6,16 @@ test_cases:
     74F1009621F9A060053
     74F21C0000800000000
 - expected_values:
+    NX_HYBRID_BAT_CURRENT: 1.8
+  response: |-
+    74F1009621F9A060053
+    74F21C0001200000000
+- expected_values:
+    NX_HYBRID_BAT_CURRENT: -3.5
+  response: |-
+    74F1009621F9A060054
+    74F2100FFDD00000000
+- expected_values:
     NX_HYBRID_BAT_CURRENT: 0.4
   response: |-
     74F1009621F9A060059
