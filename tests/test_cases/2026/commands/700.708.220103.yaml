@@ -1,11 +1,14 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    NX_ENG_ODO: 4923
+    NX_ENG_ODO_RAW: 4923
+    NX_ENG_ODO_UNIT: MI
   response: 708076201030200133B
 - expected_values:
-    NX_ENG_ODO: 5119
+    NX_ENG_ODO_RAW: 5119
+    NX_ENG_ODO_UNIT: MI
   response: 70807620103020013FF
 - expected_values:
-    NX_ENG_ODO: 5120
+    NX_ENG_ODO_RAW: 5120
+    NX_ENG_ODO_UNIT: MI
   response: '7080762010302001400'

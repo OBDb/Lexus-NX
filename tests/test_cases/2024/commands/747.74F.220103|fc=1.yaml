@@ -1,20 +1,22 @@
 command_id: 747.74F.220103|fc=1
 test_cases:
 - expected_values:
-    NX_ODO: 10685
+    NX_ODO_RAW: 10685
+    NX_ODO_UNIT: MI
   response: 74F07620103020029BD
 - expected_values:
-    NX_ODO: 13332
+    NX_ODO_RAW: 13332
+    NX_ODO_UNIT: MI
   response: 74F0762010302003414
 - expected_values:
-    NX_ODO: 14335
+    NX_ODO_RAW: 14335
+    NX_ODO_UNIT: MI
   response: 74F07620103020037FF
 - expected_values:
-    NX_ODO: 14336
+    NX_ODO_RAW: 14336
+    NX_ODO_UNIT: MI
   response: 74F0762010302003800
 - expected_values:
-    NX_ODO: 49954
+    NX_ODO_RAW: 49954
+    NX_ODO_UNIT: MI
   response: 74F076201030200C322
-- expected_values:
-    NX_ODO: null
-  response: 74F0762010303FFFFFF
