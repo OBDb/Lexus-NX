@@ -1,14 +1,18 @@
 command_id: 747.74F.220103|fc=1
 test_cases:
 - expected_values:
-    NX_ODO: 22422
+    NX_ODO_RAW: 22422
+    NX_ODO_UNIT: KM
   response: 74F0762010301005796
 - expected_values:
-    NX_ODO: 3301
+    NX_ODO_RAW: 3301
+    NX_ODO_UNIT: MI
   response: 74F0762010302000CE5
 - expected_values:
-    NX_ODO: 3325
+    NX_ODO_RAW: 3325
+    NX_ODO_UNIT: MI
   response: 74F0762010302000CFD
 - expected_values:
-    NX_ODO: 3329
+    NX_ODO_RAW: 3329
+    NX_ODO_UNIT: MI
   response: 74F0762010302000D01

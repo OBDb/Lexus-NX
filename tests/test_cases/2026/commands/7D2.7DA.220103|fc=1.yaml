@@ -1,14 +1,18 @@
 command_id: 7D2.7DA.220103|fc=1
 test_cases:
 - expected_values:
-    NX_ODO_V2: 1196
+    NX_ODO_V2_RAW: 1196
+    NX_ODO_V2_UNIT: MI
   response: 7DA07620103020004AC
 - expected_values:
-    NX_ODO_V2: 1535
+    NX_ODO_V2_RAW: 1535
+    NX_ODO_V2_UNIT: MI
   response: 7DA07620103020005FF
 - expected_values:
-    NX_ODO_V2: 1536
+    NX_ODO_V2_RAW: 1536
+    NX_ODO_V2_UNIT: MI
   response: 7DA0762010302000600
 - expected_values:
-    NX_ODO_V2: 5120
+    NX_ODO_V2_RAW: 5120
+    NX_ODO_V2_UNIT: MI
   response: 7DA0762010302001400
