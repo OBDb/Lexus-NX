@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.2215EE
 test_cases:
 - expected_values:
-    NX_12V_V: 11.64826
-  response: 7DA056215EE2522
+    NX_12V_V: 11.0193
+  response: 7DA056215EE23E2
 - expected_values:
     NX_12V_V: 11.64826
   response: 7DA056215EE25FE
