@@ -4,5 +4,5 @@ test_cases:
     NX_VSS_V2: 0
   response: 7DA04621F0D00
 - expected_values:
-    NX_VSS_V2: 57
-  response: 7DA04621F0D39
+    NX_VSS_V2: 59
+  response: 7DA04621F0D3B
