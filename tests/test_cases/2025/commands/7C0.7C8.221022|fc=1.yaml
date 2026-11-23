@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.221022|fc=1
 test_cases:
 - expected_values:
-    NX_FLV: 25.55
-  response: 7C80562102209FB
+    NX_FLV: 18.62
+  response: 7C8056210220746
 - expected_values:
     NX_FLV: 26.99
   response: 7C8056210220A8B
